@@ -4,5 +4,6 @@ Tornillos
 Cantos de PVC
 3 placas color naranja
 3 lamparas led
-
+cinta metrica
+cinta de embalar
 
