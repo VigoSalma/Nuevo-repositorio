@@ -27,14 +27,16 @@ a:hover{
     img{
         max-width: 100% ;
         max-width: 100% ;
-        position: fixed;
-        margin-top: 0%;
-        margin-right: 0%
+       
+       
         
     }
     .foto{
         max-width: 150px;
         max-height: 150px;
+        position: relative;
+        margin-left: 0%;
+        
         
     }
     
