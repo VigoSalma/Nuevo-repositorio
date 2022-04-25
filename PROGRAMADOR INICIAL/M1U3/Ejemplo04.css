@@ -1,0 +1,18 @@
+h1 {    
+    text-transform: uppercase; /*mayuscula*/
+    text-align: center; /*alineacion: right - left*/
+}
+h2{
+    text-transform: uppercase;
+    color: blue;
+    text-align: center;
+}
+/*aca trabajo con clases*/
+.destacados  {
+    color:green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*etiquetas id*/
+#verde {
+    background-color: green;
+}
