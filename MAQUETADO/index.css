@@ -1,0 +1,20 @@
+.navbar-brand {
+    @font-face {
+        font-family: futura;
+        src: "https: //www.wfonts.com/font/futura" [,<https://www.wfonts.com/font/futura>]*;
+
+    }
+}
+
+
+body {
+    background-color: rgb(245, 138, 17);
+}
+
+div h5, div p {
+    color: black;
+} 
+
+.carousel-control-prev {
+    color: black;
+}
